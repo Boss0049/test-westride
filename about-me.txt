@@ -1,2 +1,3 @@
 firstName:Tanatepon
 lastName: Kulrattanarak
+nickName: Boss
